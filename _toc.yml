@@ -1,0 +1,7 @@
+format: jb-book
+root: index
+parts:
+- caption: Object Model
+  numbered: true
+  chapters:
+  - file: README
