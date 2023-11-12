@@ -14,5 +14,5 @@ class Cat:
 cat = Cat('Кемаль')
 ```
 
-[Вызов экземпляра](README.md)
+[Вызов экземпляра](instance.html)
 
